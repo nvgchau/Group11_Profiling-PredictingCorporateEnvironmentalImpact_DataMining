@@ -17,7 +17,7 @@ The project analyzes corporate environmental impact using the Impact-Weighted Ac
 | `GROUP_11_RQ3.ipynb` | Environmental Intensity prediction |
 | `README.md` | Repository documentation |
 
-## Recommended Execution Order
+## Execution Order
 
 Run the notebooks in the following order:
 
